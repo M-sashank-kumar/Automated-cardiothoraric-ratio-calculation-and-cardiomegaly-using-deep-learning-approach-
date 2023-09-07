@@ -1,3 +1,4 @@
+
 # Automated-cardiothoraric-ratio-calculation-and-cardiomegaly-using-deep-learning-approach-
 By using deep learning use the methods for calculating the cardiothoracic ratio (CTR) and detecting cardiomegaly,
 a proposed solution introduces an automated system that utilizes a deep learning approach. The system aims to
@@ -8,3 +9,4 @@ proposed system not only streamlines the calculation process but also enhances t
 cardiomegaly detection, enabling healthcare professionals to make quicker and more informed decisions.
 Ultimately, this automated approach has the potential to significantly improve patient care by reducing time and
 effort while ensuring accurate assessments of cardiothoracic abnormalities.
+![readme image](https://github.com/M-sashank-kumar/Automated-cardiothoraric-ratio-calculation-and-cardiomegaly-using-deep-learning-approach-/assets/137720809/45de2d83-1e51-4bc0-8e9e-3dabb1cd0e44)
